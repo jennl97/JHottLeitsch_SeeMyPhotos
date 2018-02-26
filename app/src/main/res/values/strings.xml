@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JHottLeitsch_SeeMyPhotos</string>
+    <string name="concrete">Bird Prints Image</string>
+    <string name="monument">Spanish Monument Image</string>
+    <string name="mansion">Downtown Mansion Image</string>
+    <string name="riverwalk">Riverwalk Image</string>
+    <string name="mansion2">Downtown Mansion 2 Image</string>
+    <string name="office">The Office Image</string>
+    <string name="title_activity_concrete">Bird Prints in Concrete</string>
+    <string name="title_activity_monument">Spanish Monument</string>
+    <string name="title_activity_mansion">Downtown Mansion</string>
+    <string name="title_activity_riverwalk">Riverwalk</string>
+    <string name="title_activity_mansion2">Another Downtown Mansion</string>
+    <string name="title_activity_office">Madison Office</string>
+</resources>
